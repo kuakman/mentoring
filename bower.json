@@ -1,0 +1,29 @@
+{
+  "name": "mentoring",
+  "description": "Mentoring Project",
+  "main": "index.js",
+  "authors": [
+    "Patricio Ferreira <3dimentionar@gmail.com>"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "mentoring",
+    "project",
+    "frontend"
+  ],
+  "homepage": "https://github.com/kuakman/mentoring",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/js/libraries/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "2.3.5",
+    "jquery": "3.2.1",
+    "backbone": "1.3.3"
+  }
+}

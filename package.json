@@ -1,0 +1,30 @@
+{
+  "name": "mentoring",
+  "version": "1.0.0",
+  "description": "Mentoring Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+	"bower": "bower",
+    "dev": "http-server src -c-1 -o -a localhost -p 3002"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuakman/mentoring.git"
+  },
+  "keywords": [
+    "mentoring",
+    "project",
+    "frontend"
+  ],
+  "author": "Patricio Ferreira <3dimentionar@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kuakman/mentoring/issues"
+  },
+  "homepage": "https://github.com/kuakman/mentoring#readme",
+  "devDependencies": {
+    "bower": "1.8.2",
+    "http-server": "0.10.0"
+  }
+}
