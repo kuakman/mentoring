@@ -3,7 +3,8 @@
 *	@amd
 **/
 define(['model/application-model',
-	'text!templates/application.html'], function(ApplicationModel, ApplicationHTML) {
+	'view/exercise',
+	'text!templates/application.html'], function(ApplicationModel, Exercise, ApplicationHTML) {
 
 	var Application = Backbone.View.extend({
 		// Prototype Properties & Methods
