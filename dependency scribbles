@@ -1,0 +1,24 @@
+//Module System:
+
+//Node 
+//Commonjs
+var this my lib = require('path/to/mylib');
+
+var result = fs.readDirSync('path/to', {});
+var result = fs.readDir('path/to', {
+	..excuted when method sure
+});
+
+module.export{};
+
+
+//Browser
+//AMD - Asynch Module Definition
+// RequireJS (Javascript Library)
+require,  define, requirejs.config({..configOptions..})
+
+//ES6 - EMCAscript
+//import
+//export 
+
+

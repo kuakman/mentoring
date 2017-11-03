@@ -1,0 +1,23 @@
+{
+  "name": "stevedev",
+  "version": "1.0.0",
+  "description": "Playgound project to understand front end dev",
+  "main": "index.js",
+  "scripts": {
+    "bower": "bower",
+    "dev": "http-server src -c-1 -o -a localhost -p 3002",
+    "test": "node nodeTest/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Steven Jachimowicz <stevejachimo@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bower": "^1.8.2"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}

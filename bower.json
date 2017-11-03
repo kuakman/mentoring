@@ -1,0 +1,18 @@
+{
+  "name": "stevedev",
+  "description": "Playgound project to understand front end dev",
+  "main": "index.js",
+  "authors": [
+    "Steven Jachimowicz <stevejachimo@gmail.com>"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/kuakman/mentoring",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
