@@ -1,6 +1,7 @@
 define(['backbone',
 		'model/main',
-		'text!template/index-challenge.html'],
+		'text!template/index-challenge.html',
+		'extra/bindings'],
 			function(Backbone, MainModel, IndexHTML) {
 
 		var Application = Backbone.View.extend({
