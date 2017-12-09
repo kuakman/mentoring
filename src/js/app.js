@@ -1,6 +1,7 @@
 define(['backbone',
 		'model/main',
 		'text!template/index-challenge.html',
+		'view/car-list',
 		'extra/bindings'],
 			function(Backbone, MainModel, IndexHTML) {
 
